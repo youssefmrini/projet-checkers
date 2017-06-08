@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>projet</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>Board.java</name>
+			<type>1</type>
+			<locationURI>PROJECT_LOC/src/Board.java</locationURI>
+		</link>
+		<link>
+			<name>Game.java</name>
+			<type>1</type>
+			<locationURI>PROJECT_LOC/src/Game.java</locationURI>
+		</link>
+		<link>
+			<name>Main.java</name>
+			<type>1</type>
+			<locationURI>PROJECT_LOC/src/Main.java</locationURI>
+		</link>
+		<link>
+			<name>Menu.java</name>
+			<type>1</type>
+			<locationURI>PROJECT_LOC/src/Menu.java</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
